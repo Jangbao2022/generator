@@ -1,6 +1,6 @@
 通过使用这个工具包,你只需要使用简单的操作就能自动生成jpa 实体类.
 
-1. 导入maven依赖
+1. 导入依赖
 ```xml
 <dependency>
     <groupId>com.boob.generator</groupId>
@@ -72,4 +72,6 @@ private Date gmtModified;
 }
 ```
 
-5. 最后简单了把实体类中需要的包导入一下就可以用了
+5. 导包
+
+最后简单了把实体类中需要的包导入一下就可以用了
