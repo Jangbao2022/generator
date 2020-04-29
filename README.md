@@ -30,7 +30,6 @@ model.package=com.boob.generator.model
 ```
 
 3. 执行代码
-你只需要执行下面这行代码
 
 ```java
 
